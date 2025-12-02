@@ -1,0 +1,3 @@
+Sitemap: https://finderskys.online/sitemap.xml
+User-agent:*
+Disallow:
